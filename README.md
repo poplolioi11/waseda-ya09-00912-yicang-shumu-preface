@@ -12,4 +12,6 @@
 
 曲宸宇（Chen-Yu Chu）整理，v0.1.0，2026-11-18。AI 輔助轉錄與回圖，未經人類全文雙校、專家審定或準確率測量。
 
+[Zenodo v0.1.0 固定封存](https://doi.org/10.5281/zenodo.24344379) · [資料集各版](https://doi.org/10.5281/zenodo.24344378)
+
 [早稻田館目](https://www.wul.waseda.ac.jp/kotenseki/html/ya09/ya09_00912/index.html) · [館方影像入口](https://archive.wul.waseda.ac.jp/kosho/ya09/ya09_00912/) · [同一館藏掃描鏡像](https://commons.wikimedia.org/wiki/File:WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf)
