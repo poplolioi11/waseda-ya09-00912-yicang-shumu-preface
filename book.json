@@ -1,0 +1,354 @@
+{
+  "id": "waseda-ya09-00912-first-preface",
+  "title": "醫藏書目序（早稻田大學圖書館 ヤ09 00912）",
+  "english_title": "Yi cang shu mu xu [Preface to the Catalogue of Medical Books]",
+  "version": "0.1.0",
+  "date": "2026-11-18",
+  "editor": {
+    "name": "Chu, Chen-Yu",
+    "orcid": "0009-0003-9738-6914"
+  },
+  "source": {
+    "holding": "Waseda University Library",
+    "shelfmark": "ヤ09 00912",
+    "catalog": "https://www.wul.waseda.ac.jp/kotenseki/html/ya09/ya09_00912/index.html",
+    "official_images": "https://archive.wul.waseda.ac.jp/kosho/ya09/ya09_00912/",
+    "scanned_pdf": "https://upload.wikimedia.org/wikipedia/commons/1/11/WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf",
+    "scan_record": "https://commons.wikimedia.org/wiki/File:WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf",
+    "source_pdf_sha256": "565d43849fb2981288882d0df94ed980e623eb142993d79b1fa92d76754492ef",
+    "copy_date": null,
+    "facsimile_pdf_pages": 62,
+    "historical_title": "醫藏書目",
+    "preface_signature": "支弟陳懿典譔"
+  },
+  "coverage": {
+    "scope": "第一篇〈醫藏書目序〉自題首至署名",
+    "physical_sides": 4,
+    "pdf_pages": [
+      2,
+      3,
+      4
+    ],
+    "column_units": 29,
+    "complete_book": false,
+    "excludes": [
+      "PDF 第 4 頁右半第 6 欄起的另一段",
+      "書口題字、藏印及透頁墨跡"
+    ]
+  },
+  "quality": {
+    "AI_assisted": true,
+    "human_full_double_collation": false,
+    "reference_accuracy_measurement": false,
+    "peer_review": false
+  },
+  "offset_convention": "Unicode code points, zero-based, half-open",
+  "pages": [
+    {
+      "id": "p02L",
+      "pdf_page": 2,
+      "physical_side": "L",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/1/11/WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf#page=2"
+    },
+    {
+      "id": "p03R",
+      "pdf_page": 3,
+      "physical_side": "R",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/1/11/WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf#page=3"
+    },
+    {
+      "id": "p03L",
+      "pdf_page": 3,
+      "physical_side": "L",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/1/11/WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf#page=3"
+    },
+    {
+      "id": "p04R",
+      "pdf_page": 4,
+      "physical_side": "R",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/1/11/WUL-ya09_00912_%E9%86%AB%E8%97%8F%E6%9B%B8%E7%9B%AE.pdf#page=4"
+    }
+  ],
+  "units": [
+    {
+      "id": "p02L-c01",
+      "page_id": "p02L",
+      "column": 1,
+      "text": "醫藏書目序",
+      "role": "heading",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p02L-c02",
+      "page_id": "p02L",
+      "column": 2,
+      "text": "載籍之有藏自佛乗始也其多至五千有奇而括之以三",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "乘字依手寫作乗。末字三左側見紅點，下一欄再見三，兩字均保留。紅點作用不確定。"
+    },
+    {
+      "id": "p02L-c03",
+      "page_id": "p02L",
+      "column": 3,
+      "text": "三類曰經曰律曰論後道家倣其意蒐演推廣而有道",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "回看蒐字，可見草頭與鬼形。"
+    },
+    {
+      "id": "p02L-c04",
+      "page_id": "p02L",
+      "column": 4,
+      "text": "藏若儒則不立藏之名而列代史皆有藝文志七略四",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p02L-c05",
+      "page_id": "p02L",
+      "column": 5,
+      "text": "庫崇文總目皆志其目之列也近者",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p02L-c06",
+      "page_id": "p02L",
+      "column": 6,
+      "text": "正史之脩我師焦弱侯先生寔纂經籍志臚列諸類皆",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p02L-c07",
+      "page_id": "p02L",
+      "column": 7,
+      "text": "系以小論明作者之旨於呼盛哉我友殷方叔作醫藏",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "欄首可見系形，依圖保留。"
+    },
+    {
+      "id": "p02L-c08",
+      "page_id": "p02L",
+      "column": 8,
+      "text": "目分若干函〻後各著小論其體例大略倣焦先生經",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "函後的小重文記號以 〻 表示。"
+    },
+    {
+      "id": "p03R-c01",
+      "page_id": "p03R",
+      "column": 1,
+      "text": "籍志云焦先生生平好書家在通都購求甚易身入禁",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03R-c02",
+      "page_id": "p03R",
+      "column": 2,
+      "text": "林閣覽更多編摹之日請盡觀秘閣之藏乃得成此鉅",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "編後字上部莫形、下部手形，讀摹。"
+    },
+    {
+      "id": "p03R-c03",
+      "page_id": "p03R",
+      "column": 3,
+      "text": "麗方叔少與余同學以貧病改業迄無所就仍伊吾故",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03R-c04",
+      "page_id": "p03R",
+      "column": 4,
+      "text": "□為童子師饘粥之餘聊以市書句讀稍暇屈首披誦",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "欄首見竹頭及外廓，內部筆畫尚不足確定，留一字未定。",
+      "uncertainty": {
+        "start": 0,
+        "end": 1,
+        "reading": "□",
+        "alternatives": [
+          "篋"
+        ],
+        "basis": "欄首見竹頭及外廓，內部筆畫尚不足確定，留一字未定。"
+      }
+    },
+    {
+      "id": "p03R-c05",
+      "page_id": "p03R",
+      "column": 5,
+      "text": "積有年歳胸中所得甚富問道岐黃之術研討方藥治",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "胸字月旁在左。問之門內可見口形。"
+    },
+    {
+      "id": "p03R-c06",
+      "page_id": "p03R",
+      "column": 6,
+      "text": "疾稱神戸履常滿然方叔蕭然環闠中不走五都不遊",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "戸字寫形近尸。常後可見滿；蕭然在方叔之後。"
+    },
+    {
+      "id": "p03R-c07",
+      "page_id": "p03R",
+      "column": 7,
+      "text": "大人而醫藏一編網羅悉人間未觀之書議論闡古人",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "未後字從雚見，採觀。欄末人下有淡記，未計入本文。"
+    },
+    {
+      "id": "p03R-c08",
+      "page_id": "p03R",
+      "column": 8,
+      "text": "未發之旨斯亦奇矣方叔潔身脩行温然粹然皂帽褐",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c01",
+      "page_id": "p03L",
+      "column": 1,
+      "text": "衣混迹庸衆類于逸民而不著隠之名苦吟佳句出入",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "隠字依寫形錄，右件筆畫相近。",
+      "uncertainty": {
+        "start": 12,
+        "end": 13,
+        "reading": "隠",
+        "alternatives": [
+          "隱"
+        ],
+        "basis": "隠字依寫形錄，右件筆畫相近。"
+      }
+    },
+    {
+      "id": "p03L-c02",
+      "page_id": "p03L",
+      "column": 2,
+      "text": "三唐抽毫作賦馳驟漢晉可稱詞人之冠冕匿影銷聲",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c03",
+      "page_id": "p03L",
+      "column": 3,
+      "text": "不以詩名予與交久而益親似有道者其學淹通百家",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c04",
+      "page_id": "p03L",
+      "column": 4,
+      "text": "九流無不究心而于醫聊見其一班丹鉛之力収藏之",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c05",
+      "page_id": "p03L",
+      "column": 5,
+      "text": "盛金石縹緗甚具而于醫藏獨摽其綱目意欲世之為",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "左旁較近扌，暫讀摽。",
+      "uncertainty": {
+        "start": 12,
+        "end": 13,
+        "reading": "摽",
+        "alternatives": [
+          "標"
+        ],
+        "basis": "左旁較近扌，暫讀摽。"
+      }
+    },
+    {
+      "id": "p03L-c06",
+      "page_id": "p03L",
+      "column": 6,
+      "text": "醫者必多見古人書多窮古人法然後可以應人之求",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c07",
+      "page_id": "p03L",
+      "column": 7,
+      "text": "而無不效未可以一隅一得自多而嘗試也雖然心之",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p03L-c08",
+      "page_id": "p03L",
+      "column": 8,
+      "text": "精微書不能盡神而明之存乎其人古之神聖因病發",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p04R-c01",
+      "page_id": "p04R",
+      "column": 1,
+      "text": "藥人之病不可勝窮而用藥之方亦不可勝窮必欲有",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p04R-c02",
+      "page_id": "p04R",
+      "column": 2,
+      "text": "窮盡無窮則古神聖之書亦有時而窮矣善讀茲編者",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p04R-c03",
+      "page_id": "p04R",
+      "column": 3,
+      "text": "不可不知方叔之若心又不可不得方叔之巧心以用",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image",
+      "editorial_note": "下部近右，依圖暫讀若。苦是文意候選。",
+      "uncertainty": {
+        "start": 7,
+        "end": 8,
+        "reading": "若",
+        "alternatives": [
+          "苦"
+        ],
+        "basis": "下部近右，依圖暫讀若。苦是文意候選。"
+      }
+    },
+    {
+      "id": "p04R-c04",
+      "page_id": "p04R",
+      "column": 4,
+      "text": "茲編也",
+      "role": "prose",
+      "review": "two AI readings, differences checked against image"
+    },
+    {
+      "id": "p04R-c05",
+      "page_id": "p04R",
+      "column": 5,
+      "text": "支弟陳懿典譔",
+      "role": "signature",
+      "review": "two AI readings, differences checked against image"
+    }
+  ]
+}

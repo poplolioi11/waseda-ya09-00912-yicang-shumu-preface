@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite this transcription with its version and the source shelfmark."
+type: dataset
+title: "醫藏書目序（早稻田大學圖書館 ヤ09 00912） / Yi cang shu mu xu [Preface to the Catalogue of Medical Books]"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+version: "0.1.0"
+date-released: "2026-11-18"
+repository-code: "https://github.com/poplolioi11/waseda-ya09-00912-yicang-shumu-preface"
+license: CC-BY-4.0
+keywords:
+  - Chinese medical bibliography
+  - history of the book
+  - manuscript transcription
+  - "醫藏書目"
+  - "陳懿典"
